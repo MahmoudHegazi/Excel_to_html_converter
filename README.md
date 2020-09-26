@@ -19,3 +19,5 @@ https://stackoverflow.com/questions/28165704/convert-html-to-pdf-using-python-fl
 #### later will be restful working API and use of my API
 https://developers.convertio.co/api/docs/
 
+https://help.parsehub.com/hc/en-us/articles/217751808-API-Tutorial-How-to-get-run-data-using-Python-Flask
+
