@@ -22,3 +22,9 @@ https://developers.convertio.co/api/docs/
 https://help.parsehub.com/hc/en-us/articles/217751808-API-Tutorial-How-to-get-run-data-using-Python-Flask
 
 <img src="top1.PNG">
+
+
+Final_update_with_python_edit_on_excel_or_null_easy
+any edit can be done on the data before upload to data base or any function can't made by excel
+i can do it with python and export the file again to excelsheet or upload to database
+<img src="converter_final.PNG">
